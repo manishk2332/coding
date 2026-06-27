@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    letter-spacing: 3px;
+    font-family:Arial;
+}
+p{
+    text-align: justify;
+    color:red;
+    font-weight: 800;
+    line-height: 2;
+    font-size: 25px;
+}
